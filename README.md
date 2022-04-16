@@ -2,9 +2,9 @@
 
 This is Rui(Rain) Wang, an undergraduate from Zhejiang University.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainWang6188&layout=compact&theme=tokyonight)](https://github.com/RainWang6188/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainWang6188&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RainWang6188)
 
-![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainWang6188&show_icons=true&theme=tokyonight)
+[![Rain's github stats](https://github-readme-stats.vercel.app/api?username=RainWang6188&theme=tokyonight&show_icons=true)](https://github.com/RainWang6188)
 
 <!--
 **RainWang6188/RainWang6188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
