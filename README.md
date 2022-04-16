@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-This is Rui Wang, an undergraduate from Zhejiang University.
+This is Rui(Rain) Wang, an undergraduate from Zhejiang University.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainWang6188&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainWang6188&show_icons=true&theme=tokyonight)
 
 
 <!--
