@@ -11,7 +11,7 @@ Connect with me here: [![Linkedin Badge](https://img.shields.io/badge/-Rui_Wang-
 
 [![Rain's github stats](https://github-readme-stats.vercel.app/api?username=RainWang6188&theme=tokyonight&show_icons=true)](https://github.com/RainWang6188)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainWang6188&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RainWang6188)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainWang6188&layout=compact&theme=tokyonight&show_icons=true&langs_count=10)](https://github.com/RainWang6188)
 
 
 
